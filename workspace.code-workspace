@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "F:\\Программирование\\Lessons\\MyWeb"
+		},
+		{
+			"path": "F:\\Программирование\\Lessons\\Practice\\Simple-Page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Simple-Page"
+	}
+}
